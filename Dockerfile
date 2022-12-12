@@ -1,4 +1,4 @@
-FROM devopsedu/webapp:latest
+FROM gayatri15/image:latest
 
 COPY website /var/www/html/
 
