@@ -1,4 +1,4 @@
-FROM gayatri15/image:latest
+FROM gayatri/image:latest
 
 COPY website /var/www/html/
 
